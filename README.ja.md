@@ -1,3 +1,10 @@
+# 🌐 他の言語
+
+- 🇰🇷 [한국어 버전](./README.md)
+- 🇺🇸 [English version](./README.en.md)
+
+---
+
 # 👋 2ERO
 
 こんにちは :)  
@@ -71,10 +78,3 @@
 [![Discord](https://img.shields.io/badge/Discord-umma__h-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com)
 [![Email](https://img.shields.io/badge/Email-hello@2er0.io-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:hello@2er0.io)
 [![Webサイト](https://img.shields.io/badge/Website-2er0.io-000000?style=flat&logo=google-chrome&logoColor=white)](https://2er0.io)
-
----
-
-## 🌐 他の言語
-
-- 🇰🇷 [한국어 버전](./README.md)
-- 🇺🇸 [English version](./README.en.md)

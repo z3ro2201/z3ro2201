@@ -1,3 +1,10 @@
+## 🌐 View in other languages
+
+- 🇰🇷 [한국어 버전](./README.md)
+- 🇯🇵 [日本語バージョン](./README.ja.md)
+
+---
+
 # 👋 2ERO
 
 Hey there :)  
@@ -71,10 +78,3 @@ This is a space where I share and track my work.
 [![Discord](https://img.shields.io/badge/Discord-umma__h-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com)
 [![Email](https://img.shields.io/badge/Email-hello@2er0.io-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:hello@2er0.io)
 [![Website](https://img.shields.io/badge/Website-2er0.io-000000?style=flat&logo=google-chrome&logoColor=white)](https://2er0.io)
-
----
-
-## 🌐 View in other languages
-
-- 🇰🇷 [한국어 버전](./README.md)
-- 🇯🇵 [日本語バージョン](./README.ja.md)

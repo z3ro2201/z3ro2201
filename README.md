@@ -12,6 +12,7 @@
 이 공간은 저의 기록을 쌓아가는 곳이에요.
 
 🔗 개인 사이트: [https://2er0.io](https://2er0.io)
+🔗 IP 조회 사이트 : [https://ipcfg.me](https://ipcfg.me)
 
 ---
 
